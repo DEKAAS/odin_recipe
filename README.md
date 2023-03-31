@@ -1,6 +1,6 @@
-# odin_recipe
-#interstellar_recipes
+# Odin recipe-website
 #first_assignment_Of_Odin2023
 
-Embark on a Flavor Odyssey with These Otherworldly Recipes!
-My first interstellar recipes from the vast galaxies made with html and css.
+Embark on a flavor odyssey with these otherworldly recipes!
+My first interstellar recipes from the vast galaxies.
+--i did also use midjourney to generate the images--
